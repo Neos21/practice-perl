@@ -1,3 +1,8 @@
+.DS_Store
+Thumbs.db
+
+# .gitignore Perl Template
+
 !Build/
 .last_cover_stats
 /META.yml
